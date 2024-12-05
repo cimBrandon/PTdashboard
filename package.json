@@ -2,7 +2,7 @@
   "name": "market-dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cimbrandon.github.io/PTDashboard",
+  "homepage": "https://cimBrandon.github.io/PTdashboard",
   "dependencies": {
     "@radix-ui/react-select": "^2.1.2",
     "@radix-ui/react-slot": "^1.1.0",
